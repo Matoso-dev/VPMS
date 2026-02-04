@@ -1,6 +1,6 @@
 # 🐾 Veterinary Physiotherapy Management System (VPMS)
 
-**Academic Project | Grade: 19/20**
+**Academic Project **
 
 **Institution:** University of Algarve - FCT (UAlg FCT)
 
